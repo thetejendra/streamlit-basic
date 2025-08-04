@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# st.title("Hey! Tejendra Kanwar")
+st.title("Hey! Join Our Community")
 # st.header("How are you doing")
 
 name = st.text_input("Enter your name: ")
@@ -19,3 +19,4 @@ button = st.button("Submit")
 #     Mother Name :{mname}
 #     Address : {add}
 # """)
+
